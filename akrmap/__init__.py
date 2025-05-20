@@ -1,0 +1,1 @@
+from akrmap.trainer import train_parametric_akr_map_model
