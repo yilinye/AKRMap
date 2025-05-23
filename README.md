@@ -1,3 +1,4 @@
+# (ICML 2025) AKRMap: Adaptive Kernel Regression for Trustworthy Visualization of Cross-modal Embeddings
 ## Introduction
 This code implements an adaptive kernel regression guided parametric t-SNE for multimodal embeddings mapping.
 The baseline parametric t-SNE loss follows the implementation of the repo https://github.com/Academich/parametric_tsne_pytorch.
